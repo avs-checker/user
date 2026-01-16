@@ -5,6 +5,9 @@
   [![X](https://img.shields.io/badge/X-eee?style=flat&logo=x&logoColor=000000)](https://x.com/atomcheck)
   [![Facebook](https://img.shields.io/badge/Facebook-eee?style=flat&logo=facebook&logoColor=1877F2)](https://www.facebook.com/atomcheck)
 
+**ATOMCHECK focuses on the major payment gateway ecosystem—including POS systems and platforms such as Braintree, Stripe, Square, and Clover—by providing cross-platform adaptation and consistency modeling in gateway system design and analysis.**.
+
+**In the design and analysis of gateway-related systems, ATOMCHECK demonstrates cross-platform adaptation and consistency modeling capabilities.**
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science*.
 - 🔥 I mostly do Jabber on [jabber](atomcheck@xmpp.jp) and my developed [Telegram Bot](https://t.me/atomcheck_link_Bot).
