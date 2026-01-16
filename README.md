@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&duration=3500&pause=1000&color=3BF7C9&v&width=435&lines=I'm+XorEax;I'm+a+Software+Developer;I'm+a+Web+Developer;I'm+a+Cybersecurity+Expert;I'm+a+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Structure+and+maintainability+first.)](https://git.io/typing-svg)
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sasb07/)](https://www.linkedin.com/in/sasb07/)
